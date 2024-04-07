@@ -58,7 +58,7 @@ const Footer = () => {
   return (
     <div className='bg-primary mt-20 -mb-6'>
         <div className='text-center md:w-[85%] m-auto m-[0px] w-full md:px-0 px-6 md:py-6 py-8 text-[#f0f0f0] font-semibold md:text-[17px] text-[18px]'>
-            <div className=''>Money Back Ltd (which trades as Payback) Israeli company #515711653, is authorised and regulated in Israel and operates globally. In the UK, the company operates through a legal exclusion, which removes the need for Money Back Ltd to be authorised and regulated by the FCA.</div>
+            <div className=''>Money Back Ltd (which trades as RecoverLost) Israeli company #515711653, is authorised and regulated in Israel and operates globally. In the UK, the company operates through a legal exclusion, which removes the need for Money Back Ltd to be authorised and regulated by the FCA.</div>
         </div>
         <hr />
         <div className='my-10'>
@@ -147,8 +147,8 @@ const Footer = () => {
         </div>
         <div className='md:p-10 p-8 bg-secondary'>
             <div className='text-center border-t-[1px] p-3 flex flex-col gap-8 text-[#f0f0f0] font-semibold md:text-[17px] text-[16px]'>
-                <p>Disclaimer: Payback Ltd offers each new client a free consultation. Funds Recovery or other services that will be subsequently commissioned will incur fees and/or commissions, based on the service and the complexity of each individual case. Payback Ltd doesn’t offer any investments, financial services, or advice.</p>
-                <p>At Payback we do not initiate calls without request. We only call clients that reached out to us</p>
+                <p>Disclaimer: RecoverLost Ltd offers each new client a free consultation. Funds Recovery or other services that will be subsequently commissioned will incur fees and/or commissions, based on the service and the complexity of each individual case. RecoverLost Ltd doesn’t offer any investments, financial services, or advice.</p>
+                <p>At RecoverLost we do not initiate calls without request. We only call clients that reached out to us</p>
                 <p>The Company cannot accept prohibited payment methods.</p>
                 <p>Every payment received by the company is secure under the PCI-DSS protocol.</p>
             </div>

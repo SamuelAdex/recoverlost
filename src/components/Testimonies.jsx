@@ -35,19 +35,19 @@ const Testimonies = () => {
             id: 1,
             user: 'KEVIN',
             title: 'I am very confident of the...',
-            content: "am very confident of the successful return of my funds through the diligent and immediate determination of my managing agent namely Liron Segev. With Liron's genuine response to my situation I would sincerely recommend The Payback team and their recouping of funds a positive program"
+            content: "am very confident of the successful return of my funds through the diligent and immediate determination of my managing agent namely Liron Segev. With Liron's genuine response to my situation I would sincerely recommend The RecoverLost team and their recouping of funds a positive program"
         },
         {
             id: 2,
             user: 'Merwyn',
             title: 'I got scammed by a forex...',
-            content: "I got scammed by a forex company in March 2023. Having lost a substantial amount of my savings to the scammers I almost gave up thinking its all my fault that I got scammed in the first place. Few weeks later I accidentally stumbled upon Payback LTD on Google and decided to contact them to see if they could assist me with in the recovery process.  Payback reviewed my case and were very optimistic that the funds could be recovered from the scammers. Worth mentioning that this was done in a very structured and professional manner, they know precisely how to get the job done.  4 months down the line I was able to recover 70% of my funds and we are in the pursuit of recovering the balance. (Jonah / Eva / Zara &amp; the entire payback team) quick shout out to you guys for your support, patience &amp; professionalism. I definitely recommended Payback Ltd to any victims of fraud or scammers. God Bless you guys!."
+            content: "I got scammed by a forex company in March 2023. Having lost a substantial amount of my savings to the scammers I almost gave up thinking its all my fault that I got scammed in the first place. Few weeks later I accidentally stumbled upon RecoverLost LTD on Google and decided to contact them to see if they could assist me with in the recovery process.  RecoverLost reviewed my case and were very optimistic that the funds could be recovered from the scammers. Worth mentioning that this was done in a very structured and professional manner, they know precisely how to get the job done.  4 months down the line I was able to recover 70% of my funds and we are in the pursuit of recovering the balance. (Jonah / Eva / Zara &amp; the entire RecoverLost team) quick shout out to you guys for your support, patience &amp; professionalism. I definitely recommended RecoverLost Ltd to any victims of fraud or scammers. God Bless you guys!."
         },
         {
             id: 3,
             user: 'Gary Cordoza',
             title: 'I contacted RecoverLost ltd...',
-            content: "I contacted RecoverLost ltd. In mid May 2023 after I was scammed out of a substancial sum of money. I kept all receipts and texts and as much information as I could gather. Gil asigned Aylin as my case manager and she knew exactly what action to take. Sure enough the money was restored to my account. I cant thank you enough Payback ltd., Gil,Aylin, and the entire staff.I only wish that the low life criminals that prey on people could be held to answer. Thanks RecoverLost"
+            content: "I contacted RecoverLost ltd. In mid May 2023 after I was scammed out of a substancial sum of money. I kept all receipts and texts and as much information as I could gather. Gil asigned Aylin as my case manager and she knew exactly what action to take. Sure enough the money was restored to my account. I cant thank you enough RecoverLost ltd., Gil,Aylin, and the entire staff.I only wish that the low life criminals that prey on people could be held to answer. Thanks RecoverLost"
         },
         {
             id: 4,
@@ -59,13 +59,13 @@ const Testimonies = () => {
             id: 5,
             user: 'Jane Balmer',
             title: 'It can be done!',
-            content: "Don't give up hope - it actually took nearly four years but Payback stuck with me and saw my claim right through to a successful outcome. We worked closely together,  my consultant was both patient and professional and guided me through a very difficult process to a very happy ending. Sadly if you are reading this you know there are so many scam companies out there but take heart - this is genuine . They have given me my life back after making such a stupid error of judgement."
+            content: "Don't give up hope - it actually took nearly four years but RecoverLost stuck with me and saw my claim right through to a successful outcome. We worked closely together,  my consultant was both patient and professional and guided me through a very difficult process to a very happy ending. Sadly if you are reading this you know there are so many scam companies out there but take heart - this is genuine . They have given me my life back after making such a stupid error of judgement."
         },
         {
             id: 6,
             user: 'Naveem Singh',
             title: 'I lost a lot of money in trading...',
-            content: "I lost a lot of money in trading scam in the year 2017 and all the money I was funded for the trading company using my credit cards. I was really stressed and disappointed after that I came across Scam-adviser in 2021which is one of the department of PAYBACK Ltd and I've told my complete story to them how I was scammed in a sophisticated trading scam/fraud and after that they have assigned a dedicated case advisor Emily and she was really helpful and supportive. She has prepared my case and helped me all along my case to recover my money and finally I've got all my money back in February this year after so long. So, I would like to thanks all the members involved from Payback specially Emily and from Scam-Advisor specially Daniela to recover my hard earned money. I strongly recommend them for anybody who are really looking forward to recover their money from any scam/fraud."
+            content: "I lost a lot of money in trading scam in the year 2017 and all the money I was funded for the trading company using my credit cards. I was really stressed and disappointed after that I came across Scam-adviser in 2021which is one of the department of RecoverLost Ltd and I've told my complete story to them how I was scammed in a sophisticated trading scam/fraud and after that they have assigned a dedicated case advisor Emily and she was really helpful and supportive. She has prepared my case and helped me all along my case to recover my money and finally I've got all my money back in February this year after so long. So, I would like to thanks all the members involved from RecoverLost specially Emily and from Scam-Advisor specially Daniela to recover my hard earned money. I strongly recommend them for anybody who are really looking forward to recover their money from any scam/fraud."
         },
     ]
   return (

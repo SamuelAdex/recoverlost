@@ -4,13 +4,15 @@ import Button from './Button'
 import yahoo from '../assets/yahoo.svg'
 import business from '../assets/business.svg'
 import wire from '../assets/wire.svg'
+import mask from '../assets/mask.png'
 
 const Hero = () => {
   return (
     <div className='flex xl:flex-row flex-col md:h-[73dvh] h-[78vh] items-center md:w-[90%] w-full m-auto m-[0px] md:px-0 px-4 py-8 xl:mt-[9rem] mt-[7.6rem]'>
         <div className='flex-[3] xl:text-left text-center'>
-            <div className='lg:text-[75px] text-[60px] lg:leading-[80px] leading-[65px] font-black text-green-400'>
+            <div className='lg:text-[75px] text-[60px] relative lg:leading-[80px] leading-[65px] font-black text-green-400'>
                 Get your money back <span className='text-white'>from a scam</span>
+                <img src={mask} className='absolute md:w-[100px] w-[70px] md:right-[-20px] right-[-15px] top-[12px] rotate-[20deg]' alt="" />
             </div>
             <p className='text-[#f0f0f0] md:text-[20px] text-[20px] font-semibold mt-6'>{"If you’ve been ripped off by scammers, get in touch and our team of experts will work to get your money back"}</p>
             <div className='xl:flex hidden items-center gap-5 text-[#bdbdbd] mt-20'>
