@@ -12,7 +12,7 @@ const Hero = () => {
         <div className='flex-[3] xl:text-left text-center'>
             <div className='lg:text-[75px] text-[60px] relative lg:leading-[80px] leading-[65px] font-black text-green-400'>
                 Get your money back <span className='text-white'>from a scam</span>
-                <img src={mask} className='absolute md:w-[100px] w-[70px] md:right-[-20px] right-[-15px] top-[12px] rotate-[20deg]' alt="" />
+                <img src={mask} className='absolute md:w-[100px] w-[50px] md:right-[-20px] right-[-10px] top-[12px] rotate-[20deg]' alt="" />
             </div>
             <p className='text-[#f0f0f0] md:text-[20px] text-[20px] font-semibold mt-6'>{"If you’ve been ripped off by scammers, get in touch and our team of experts will work to get your money back"}</p>
             <div className='xl:flex hidden items-center gap-5 text-[#bdbdbd] mt-20'>
