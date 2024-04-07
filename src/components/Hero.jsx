@@ -7,7 +7,7 @@ import wire from '../assets/wire.svg'
 
 const Hero = () => {
   return (
-    <div className='flex xl:flex-row flex-col md:h-[73dvh] h-[70vh] items-center md:w-[90%] w-full m-auto m-[0px] md:px-0 px-4 xl:mt-[9rem] mt-[7.8rem]'>
+    <div className='flex xl:flex-row flex-col md:h-[73dvh] h-[73vh] items-center md:w-[90%] w-full m-auto m-[0px] md:px-0 px-4 xl:mt-[9rem] mt-[7.8rem]'>
         <div className='flex-[3] xl:text-left text-center'>
             <div className='lg:text-[75px] text-[60px] lg:leading-[80px] leading-[65px] font-black text-green-400'>
                 Get your money back <span className='text-white'>from a scam</span>

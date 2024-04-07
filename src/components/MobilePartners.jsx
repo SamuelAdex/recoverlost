@@ -8,7 +8,7 @@ import wire from '../assets/wire_black.svg'
 const MobilePartners = () => {
   return (
     <div className='divide-y divide-primary py-10'>
-        <div className='xl:hidden md:mt-[30rem] mt-[28rem] flex md:flex-row flex-col xl:justify-evenly gap-4 justify-center xl:w-[80%] w-full xl:px-0 px-6 m-auto m-[0px]'>
+        <div className='xl:hidden md:mt-[30rem] mt-[30rem] flex md:flex-row flex-col xl:justify-evenly gap-4 justify-center xl:w-[80%] w-full xl:px-0 px-6 m-auto m-[0px]'>
             <span className='text-[20px] text-gray-500 xl:text-left text-center'>As seen in:</span>
             <div className='flex flex-wrap gap-6 justify-center'>
                 <img src={yahoo} alt="" />
