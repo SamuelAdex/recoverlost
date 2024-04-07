@@ -11,7 +11,7 @@ const Scam = () => {
         1024: { items: 4 },
     };
   return (
-    <div className='xl:mt-24 md:mt-[10rem] mt-[5rem]'>
+    <div className='xl:mt-24 md:mt-[10rem] mt-[5rem] md:px-0 px-3'>
         <div className=''>
             <h1 className='text-center text-[28px] font-bold text-primary'>Scams we helped our clients recover from</h1>
         </div>
